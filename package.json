@@ -1,13 +1,17 @@
 {
-  "name": "atom-package-template",
-  "theme": "atom-package-template",
-  "version": "0.10.9",
-  "description": "เพิ่มตรงนี้",
+  "name": "SA_PG_SLOT_MEGA",
+  "theme": "SA PG SLOT MEGAGAME 789KM เว็บตรง ออนไลน์",
+  "version": "0.10.10",
+  "description": "SA PG SLOT MEGAGAME 789KM เว็บตรง ออนไลน์",
   "keywords": [
-    "ใส่เพิ่มตรงนี้",
-    "เพิ่มตรงนี้"
+    "สล็อต",
+    "เว็บตรง",
+    "สล็อตไม่ผ่านเอเยนต์",
+    "PG",
+    "SA",
+    "MEGAGAME"
   ],
-  "repository": "https://github.com/7elven/atom-package-template",
+  "repository": "https://github.com/mrslomo/SA_PG_SLOT_MEGA.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
